@@ -1,4 +1,5 @@
-//scripts.js
+/*scripts.js
+Conditional instructions in practice*/
 
 var a = 3;
 var b = 6;
