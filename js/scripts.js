@@ -2,7 +2,7 @@
 Conditional instructions in practice*/
 
 var a = 3;
-var b = b;
+var b = "b";
 var value = (a * a) - (2 * a * b) + (b * b);
 console.log("Value= " + value);
 
